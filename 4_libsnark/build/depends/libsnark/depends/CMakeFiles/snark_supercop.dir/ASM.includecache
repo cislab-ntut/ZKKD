@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/choose_t.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/consts.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/fe25519_freeze.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/fe25519_mul.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/fe25519_nsquare.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/fe25519_square.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_add_p1p1.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_dbl_p1p1.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_nielsadd2.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_nielsadd_p1p1.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_p1p1_to_p2.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_p1p1_to_p3.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_p1p1_to_pniels.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ge25519_pnielsadd_p1p1.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/heap_rootreplaced.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/heap_rootreplaced_1limb.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/heap_rootreplaced_2limbs.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/heap_rootreplaced_3limbs.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/sc25519_add.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/sc25519_barrett.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/sc25519_lt.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/sc25519_sub_nored.s
+
+/mnt/d/Master_paper/2025_NN to SDT final code/upload/4_libsnark/depends/libsnark/depends/libsnark-supercop/src/crypto_sign/ed25519/amd64-51-30k/ull4_mul.s
+
